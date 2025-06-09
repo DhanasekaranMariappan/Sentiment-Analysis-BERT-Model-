@@ -66,4 +66,4 @@ Feel free to contribute to this project by suggesting improvements, adding more 
 
 ## License
 
-[Specify your license here, e.g., MIT License]
+MIT License Copyright (c) 2025 Dhanasekaran
